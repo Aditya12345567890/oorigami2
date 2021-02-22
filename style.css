@@ -1,0 +1,46 @@
+h1{
+
+    color: rgb(49, 97, 143);
+}
+
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+  
+  }
+.item1{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.item2{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.item3{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.footer{
+display: flex;
+justify-content: flex-end;
+flex-direction: column;
+}
+
+
+p,h2{
+    text-align: center;
+}
+.origami {
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 310px;
+
+font-family: 'Times New Roman', Times, serif;}
